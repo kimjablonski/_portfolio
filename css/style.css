@@ -105,17 +105,24 @@ h1 {
   padding-top:100px;
 }
 
-
-
- h5 {
+h5 {
 		text-align: left;
 		width:420px;
 		color: black;
-		font-size: 16px;
+		font-size:16px;
 		line-height: 26px;
-		margin-left: 15%;
+		margin-left: 18%;
 		float: left;
 	}
+
+	#kim img{
+		position: relative;
+		padding-top:28px;
+		float:left;
+		width:92%;
+		margin-left:-130px;
+	}
+
 
 
 	#myList li{
@@ -127,12 +134,6 @@ h1 {
 		margin-right:0px;
 	}
 
-	#kim img{
-		width:400px;
-		display: inline;
-		padding-top: 120px;
-		margin-left: 150px;
-	}
 
 	.hidden{
 		display:none;
@@ -450,7 +451,6 @@ h1 {
 
 #about h1{
 	padding-top: 200px;
-	margin: 0 auto 5px;
 	text-align: center;
 	margin-bottom: 90px;
 }
@@ -465,6 +465,7 @@ h3 {
 }
 
 h4{
+	margin-top:-20px;
 	font-family: 'existence';
   letter-spacing: 2px;
 	font-size: 25px;
@@ -504,6 +505,6 @@ header p {
 
 #contact{
 	display: block;
-  margin-left:15%;
+  margin-left:14.5%;
   width: 65%;
 }

@@ -28,37 +28,38 @@
 	padding-left:168px;
 	line-height:26px;
 	padding-top:30px;
-	padding-bottom:60px;
+	padding-bottom:5px;
 }
-
 
 #navbar ul {
  margin: 0 auto;
  padding-top:20px;
  width:750px;
  height: 50px;
- margin-top: 300px;
- margin-bottom: 40px;
+ margin-top: 5px;
+ margin-bottom:100px;
  list-style-type: none;
- background-color: #6d6e6e;
 
  }
 
 #navbar ul li {
  display:inline;
  float:left;
- margin-left:45px;
+ margin-left:4%;
  margin-right:20px;
  font-family: 'existence';
- font-size:20px;
+ font-weight:bold;
+ color: #6d6e6e;
+ font-size:23px;
  }
 
 #navbar ul li a {
  display: block;
+ align: center;
  text-decoration: none;
  text-align:center;
- width:160px;
- color: #fff;
+ width:170px;
+ color: #6d6e6e;
  }
 
 #navbar ul li a:hover {
